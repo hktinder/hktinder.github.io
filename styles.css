@@ -1,5 +1,5 @@
 body {
-    background:#8FBC8F;
+    background:#6495ED;
     font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -7,7 +7,7 @@ body {
     display:flex;
     padding:10px;
     margin:10px;
-    background:#FFF8DC;
+    background:#F0F8FF;
 }
 
 .assignment img {
@@ -20,14 +20,14 @@ h1 {
     text-align:center;
 }
 h1:hover {
-    color:#E9967A;
+    color:#00008B;
     text-align:center;
 }
 a {
     text-decoration:none;
-    color:#FFF8DC;
+    color:#696969;
 }
 a:hover {
     text-decoration:none;
-    color:#006400;
+    color:#00008B;
 }
