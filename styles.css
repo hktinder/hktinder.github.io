@@ -24,12 +24,12 @@ body {
  }   
 
 h1 {
-    color:#006400;
+    color:#00008B;
     text-align:center;
     text-decoration:none;
 }
 h1:hover {
-    color:#00008B;
+    color:#006400;
     text-align:center;
     text-decoration:none;
 }
