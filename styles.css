@@ -5,6 +5,7 @@ body {
 
 .assignments {
     display:flex;
+    flex-wrap:wrap;
 }
 
 .assignment {
